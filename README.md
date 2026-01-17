@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-PoC-orange)
 
-**WhisperPair** is a security research tool and Proof-of-Concept (PoC) for **CVE-2025-36911**, a vulnerability in the **Google Fast Pair Service (GFPS)**.
+**WhisperPair** Proof-of-Concept (PoC) for **CVE-2025-36911**, a vulnerability in the **Google Fast Pair Service (GFPS)**.
 
 **Key Insight:** Vulnerable devices accept RAW unencrypted Key-Based Pairing requests even when NOT in pairing mode - no Anti-Spoofing Public Key required.
 
